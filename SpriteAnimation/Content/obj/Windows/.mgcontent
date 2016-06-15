@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/DOWN.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/RIGHT.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/UP.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/LEFT.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/STANDINGDOWN.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/STANDINGLEFT.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/STANDINGRIGHT.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/STANDINGUP.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/BACKGROUND.jpg</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/BACKGROUND-DESERT.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Book1.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Desert.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/playBtn.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/quitBtn.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/resumeBtn.png</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Sounds/Inspiration.mp3</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Sounds/BoxCat_Games_-_24_-_Tricks.mp3</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Sounds/BurbSound.wav</File>
+    <File>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Sounds/messageScoreTime.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

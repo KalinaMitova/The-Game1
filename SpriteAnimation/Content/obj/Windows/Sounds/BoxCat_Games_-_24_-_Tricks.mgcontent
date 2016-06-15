@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/Sounds/BoxCat_Games_-_24_-_Tricks.mp3</SourceFile>
+  <SourceTime>2016-06-15T02:25:20.8697318+03:00</SourceTime>
+  <DestFile>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/bin/Windows/Sounds/BoxCat_Games_-_24_-_Tricks.xnb</DestFile>
+  <DestTime>2016-06-15T10:16:07.7596624+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T09:36:08+03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T09:36:08+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Kalina/Desktop/The-Game-master/SpriteAnimation/Content/bin/Windows/Sounds/BoxCat_Games_-_24_-_Tricks.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
